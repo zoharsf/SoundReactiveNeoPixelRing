@@ -1,6 +1,9 @@
 # SoundReactiveNeoPixelRing
 This code lights up a NeoPixel ring according to the sound volume in the environment.
 
+![Sound reactive neo pixel ring](SoundReactiveNeoPixelRing.gif?raw=true "Sound reactive neo pixel ring")
+
+
 Background
 ----------
 1. Each NeoPixel includes three distinct LEDs: one red, one green and one blue.
